@@ -1,0 +1,12 @@
+{
+  "name": "monorepostudy",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}

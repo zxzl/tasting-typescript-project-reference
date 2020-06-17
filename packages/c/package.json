@@ -1,0 +1,7 @@
+{
+  "name": "@shik/c",
+  "version": "1.0.0",
+  "main": "dist/src/index.js",
+  "type": "dist/src/index.d.ts",
+  "license": "MIT"
+}

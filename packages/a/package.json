@@ -1,0 +1,9 @@
+{
+  "name": "@shik/a",
+  "version": "1.0.0",
+  "main": "dist/index.jss",
+  "license": "MIT",
+  "dependencies": {
+    "@shik/b": "1.0.0"
+  }
+}
